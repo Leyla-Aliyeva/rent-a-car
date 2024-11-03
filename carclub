@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width , initial-scale=1.0">
+  <title>Carclub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>WWELCOME TO CARCLUB!</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Cars</a>
+      <a href="#">Contact</a>
+      <a href="#">About us</a>
+    </nav>
+  </header>
+  <section id="cars">
+    <h2>Avaiblable Cars for Rent</h2>
+    <div class="car-list">
+      <div class="Range Rover">
+      <img src="images">  
+      </div>
+ </div>
+</body>
