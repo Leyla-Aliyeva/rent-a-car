@@ -20,7 +20,24 @@
     <h2>Avaiblable Cars for Rent</h2>
     <div class="car-list">
       <div class="Range Rover">
-      <img src="images">  
+      <img src="images=images.jpg" alt="Range Rover"> 
+      <h3>car model</h3>
+<p>Price per day:$200</p>
+
+<button>Rent now</button>
       </div>
  </div>
+<section id="Contact">
+<h2>Contact us</h2>
+<from>
+<label for="name">Name:</label>
+<input type="text" id="name" required>
+<label for="email">Email:</label>
+<input type= "email" id="email" required>
+<label for="message" >Message:</label>
+<textarea id="message"required></textarea>
+<button type="submit">Send Message</button>
+</form>
+</section>
+</section>
 </body>
